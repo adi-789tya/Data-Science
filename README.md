@@ -1,2 +1,2 @@
 # Data-Science
-EDA, Machine Learning and Artificial Intelligence
+Data visualization using Tableau, EDA, Machine Learning and Artificial Intelligence
